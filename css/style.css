@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'got_font';
+  src: url(../webfonts/game_of_thrones.ttf)
+}
+
+html { 
+  background: url(../img/iron_throne_background.jpg) no-repeat top center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: transparent !important;
+  /* important used here for demo */
+}
+
+#heading {
+    font-family: got_font;
+}
