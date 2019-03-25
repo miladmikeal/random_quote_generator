@@ -1,7 +1,7 @@
 let apiURL = "https://got-quotes.herokuapp.com/quotes";
 let gotQuote = document.querySelector(".got-quote");
 let gotCharacter = document.querySelector(".got-character");
-let tweetLink = document.querySelector(".tweet-link");
+let tweetLink = document.querySelector("#tweet-link");
 let quoteButton = document.querySelector("#newQuote");
 let image = document.querySelector("#image");
 
@@ -32,7 +32,7 @@ function getData() {
                 case "Davos":
                     image.src = "../img/sigils/seaworth.jpg";
                     break;
-                case "Vicatarion":
+                case "Vicatarion Greyjoy":
                     image.src = "../img/sigils/greyjoy.jpg";
                     break;
                 case "Cersei Lannister":
