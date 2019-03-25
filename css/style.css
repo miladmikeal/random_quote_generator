@@ -16,7 +16,11 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: transparent !important;
+  background-color: transparent !important;tarly
+}
+
+#showcase {
+  opacity: 0.;
 }
 
 #heading {
