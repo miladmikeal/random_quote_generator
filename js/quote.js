@@ -36,19 +36,19 @@ function getData() {
                     image.src = "../img/sigils/greyjoy.jpg";
                     break;
                 case "Cersei Lannister":
-                    image.src = "../img/sigils/Lannister.jpg";
+                    image.src = "../img/sigils/lannister.jpg";
                     break;
                 case "Cersei and Tyrion":
-                    image.src = "../img/sigils/Lannister.jpg";
+                    image.src = "../img/sigils/lannister.jpg";
                     break;
                 case "Jaime Lannister":
-                    image.src = "../img/sigils/Lannister.jpg";
+                    image.src = "../img/sigils/lannister.jpg";
                     break;
                 case "Tyrion":
-                    image.src = "../img/sigils/Lannister.jpg";
+                    image.src = "../img/sigils/lannister.jpg";
                     break;
                 case "Bronn":
-                    image.src = "../img/sigils/Lannister.jpg";
+                    image.src = "../img/sigils/lannister.jpg";
                     break;
                 case "Samwell":
                     image.src = "../img/sigils/tarly.jpg";
