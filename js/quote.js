@@ -32,7 +32,7 @@ function getData() {
                 case "Davos":
                     image.src = "img/sigils/seaworth.jpg";
                     break;
-                case "Vicatarion Greyjoy":
+                case "Victarion Greyjoy":
                     image.src = "img/sigils/greyjoy.jpg";
                     break;
                 case "Cersei Lannister":
